@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Peterson Fernandes
+## Peterson Fernandes
 
 Frontend developer student based in Brazil, currently building a personal finance tracker from scratch.
 
